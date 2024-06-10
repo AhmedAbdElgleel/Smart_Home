@@ -1,0 +1,857 @@
+Archive member included because of file (symbol)
+
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                              ./lm35_sensor.o (__mulsi3)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              ./pwm_timer0.o (__udivmodsi4)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./main.o (__do_copy_data)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./flame_sensor.o (__do_clear_bss)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./lcd.o (__fixunssfsi)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__subsf3)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./lcd.o (__mulsf3)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                              ./lm35_sensor.o (__divsf3)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./lcd.o (__gtsf2)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./lcd.o (__ltsf2)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                              ./lm35_sensor.o (__floatunsisf)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                              m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o) (__clzsi2)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                              m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o) (__clz_tab)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                              ./lcd.o (itoa)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                              ./lcd.o (ltoa)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+                              m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o) (strrev)
+m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o) (__udivmodhi4)
+
+Allocating common symbols
+Common symbol       size              file
+
+displayString       0x4               ./main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./adc.o
+LOAD ./buzzer.o
+LOAD ./dc_motor.o
+LOAD ./flame_sensor.o
+LOAD ./gpio.o
+LOAD ./lcd.o
+LOAD ./lm35_sensor.o
+LOAD ./main.o
+LOAD ./pwm_timer0.o
+LOAD ./red_led.o
+LOAD ./smoke_sensor.o
+LOAD ./water_pumb.o
+LOAD m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x3298
+ *(.vectors)
+ .vectors       0x00000000       0x54 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_1
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_11
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_7
+                0x0000008e                __vector_5
+                0x0000008e                __vector_4
+                0x0000008e                __vector_9
+                0x0000008e                __vector_2
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_10
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./adc.o
+ .text          0x00000092        0x0 ./buzzer.o
+ .text          0x00000092        0x0 ./dc_motor.o
+ .text          0x00000092        0x0 ./flame_sensor.o
+ .text          0x00000092        0x0 ./gpio.o
+ .text          0x00000092        0x0 ./lcd.o
+ .text          0x00000092        0x0 ./lm35_sensor.o
+ .text          0x00000092        0x0 ./main.o
+ .text          0x00000092        0x0 ./pwm_timer0.o
+ .text          0x00000092        0x0 ./red_led.o
+ .text          0x00000092        0x0 ./smoke_sensor.o
+ .text          0x00000092        0x0 ./water_pumb.o
+ .text          0x00000092        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000092        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000092        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092       0x58 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000092                __fixunssfsi
+ .text          0x000000ea      0x354 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00000382                __subsf3
+                0x000003e4                __addsf3
+ .text          0x0000043e      0x1f4 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x0000043e                __mulsf3
+ .text          0x00000632      0x158 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                0x00000632                __divsf3
+ .text          0x0000078a       0x60 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x0000078a                __gtsf2
+ .text          0x000007ea       0x60 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x000007ea                __gesf2
+ .text          0x0000084a       0x60 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x0000084a                __ltsf2
+ .text          0x000008aa       0xa8 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x000008aa                __fixsfsi
+ .text          0x00000952        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00000952       0xf2 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                0x00000952                __floatunsisf
+ .text          0x00000a44        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00000a44        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000a44       0x9e m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                0x00000a44                __clzsi2
+ .text          0x00000ae2      0x1aa m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x00000ae2                __pack_f
+ .text          0x00000c8c       0xf0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x00000c8c                __unpack_f
+ .text          0x00000d7c       0xb2 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000d7c                __fpcmp_parts_f
+ .text          0x00000e2e        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .text          0x00000e2e        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .text          0x00000e2e        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .text          0x00000e2e        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .text          0x00000e2e        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x00000e2e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.ADC_init
+                0x00000e2e       0x50 ./adc.o
+                0x00000e2e                ADC_init
+ .text.ADC_readChannel
+                0x00000e7e       0x50 ./adc.o
+                0x00000e7e                ADC_readChannel
+ .text.Buzzer_init
+                0x00000ece       0x22 ./buzzer.o
+                0x00000ece                Buzzer_init
+ .text.Buzzer_on
+                0x00000ef0       0x18 ./buzzer.o
+                0x00000ef0                Buzzer_on
+ .text.Buzzer_off
+                0x00000f08       0x18 ./buzzer.o
+                0x00000f08                Buzzer_off
+ .text.DcMOTOR_init
+                0x00000f20       0x40 ./dc_motor.o
+                0x00000f20                DcMOTOR_init
+ .text.DCMOTOR_rotateWithControl
+                0x00000f60       0xd6 ./dc_motor.o
+                0x00000f60                DCMOTOR_rotateWithControl
+ .text.flame_init
+                0x00001036       0x38 ./flame_sensor.o
+                0x00001036                flame_init
+ .text.flame_setCallBack
+                0x0000106e       0x2c ./flame_sensor.o
+                0x0000106e                flame_setCallBack
+ .text.__vector_3
+                0x0000109a       0x66 ./flame_sensor.o
+                0x0000109a                __vector_3
+ .text.GPIO_setupPinDirection
+                0x00001100      0x1d6 ./gpio.o
+                0x00001100                GPIO_setupPinDirection
+ .text.GPIO_writePin
+                0x000012d6      0x1d6 ./gpio.o
+                0x000012d6                GPIO_writePin
+ .text.GPIO_readPin
+                0x000014ac      0x136 ./gpio.o
+                0x000014ac                GPIO_readPin
+ .text.GPIO_setupPortDirection
+                0x000015e2       0x88 ./gpio.o
+                0x000015e2                GPIO_setupPortDirection
+ .text.GPIO_writePort
+                0x0000166a       0x88 ./gpio.o
+                0x0000166a                GPIO_writePort
+ .text.GPIO_readPort
+                0x000016f2       0x8a ./gpio.o
+                0x000016f2                GPIO_readPort
+ .text.LCD_init
+                0x0000177c      0x164 ./lcd.o
+                0x0000177c                LCD_init
+ .text.LCD_sendCommand
+                0x000018e0      0x8f6 ./lcd.o
+                0x000018e0                LCD_sendCommand
+ .text.LCD_displayCharacter
+                0x000021d6      0x8f6 ./lcd.o
+                0x000021d6                LCD_displayCharacter
+ .text.LCD_displayString
+                0x00002acc       0x52 ./lcd.o
+                0x00002acc                LCD_displayString
+ .text.LCD_moveCursor
+                0x00002b1e       0x84 ./lcd.o
+                0x00002b1e                LCD_moveCursor
+ .text.LCD_displayStringRowColumn
+                0x00002ba2       0x32 ./lcd.o
+                0x00002ba2                LCD_displayStringRowColumn
+ .text.LCD_intgerToString
+                0x00002bd4       0x46 ./lcd.o
+                0x00002bd4                LCD_intgerToString
+ .text.LCD_longToString
+                0x00002c1a       0x52 ./lcd.o
+                0x00002c1a                LCD_longToString
+ .text.LCD_clearScreen
+                0x00002c6c       0x14 ./lcd.o
+                0x00002c6c                LCD_clearScreen
+ .text.LM35_getTemperature
+                0x00002c80       0x8a ./lm35_sensor.o
+                0x00002c80                LM35_getTemperature
+ .text.main     0x00002d0a      0x1fc ./main.o
+                0x00002d0a                main
+ .text.flame_callBack
+                0x00002f06       0x14 ./main.o
+                0x00002f06                flame_callBack
+ .text.PWM_Timer0_Start
+                0x00002f1a       0x9a ./pwm_timer0.o
+                0x00002f1a                PWM_Timer0_Start
+ .text.RED_LED_init
+                0x00002fb4       0x22 ./red_led.o
+                0x00002fb4                RED_LED_init
+ .text.RED_LED_on
+                0x00002fd6       0x18 ./red_led.o
+                0x00002fd6                RED_LED_on
+ .text.RED_LED_off
+                0x00002fee       0x18 ./red_led.o
+                0x00002fee                RED_LED_off
+ .text.smoke_sensor_init
+                0x00003006       0x2c ./smoke_sensor.o
+                0x00003006                smoke_sensor_init
+ .text.smoke_sensor_read
+                0x00003032       0x32 ./smoke_sensor.o
+                0x00003032                smoke_sensor_read
+ .text.Pumb_init
+                0x00003064       0x18 ./water_pumb.o
+                0x00003064                Pumb_init
+ .text.pumb_rotateControl
+                0x0000307c       0x36 ./water_pumb.o
+                0x0000307c                pumb_rotateControl
+ .text.libgcc   0x000030b2       0x3e m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                0x000030b2                __mulsi3
+ .text.libgcc   0x000030f0       0x44 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x000030f0                __udivmodsi4
+ .text.libgcc   0x00003134        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00003134        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00003134        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00003134       0x38 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x00003134                __prologue_saves__
+ .text.libgcc   0x0000316c       0x36 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x0000316c                __epilogue_restores__
+ .text.avr-libc
+                0x000031a2       0x42 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                0x000031a2                itoa
+ .text.avr-libc
+                0x000031e4       0x68 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                0x000031e4                ltoa
+ .text.avr-libc
+                0x0000324c       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+                0x0000324c                strrev
+ .text.libgcc   0x0000326c       0x28 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x0000326c                __udivmodhi4
+                0x00003294                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00003294        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00003294                exit
+                0x00003294                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00003294        0x4 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00003298                _etext = .
+
+.data           0x00800060      0x148 load address 0x00003298
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./adc.o
+ .data          0x00800060        0x0 ./buzzer.o
+ .data          0x00800060        0x0 ./dc_motor.o
+ .data          0x00800060        0x0 ./flame_sensor.o
+ .data          0x00800060        0x0 ./gpio.o
+ .data          0x00800060        0x0 ./lcd.o
+ .data          0x00800060        0x0 ./lm35_sensor.o
+ .data          0x00800060       0x3c ./main.o
+ .data          0x0080009c        0x0 ./pwm_timer0.o
+ .data          0x0080009c        0x0 ./red_led.o
+ .data          0x0080009c        0x0 ./smoke_sensor.o
+ .data          0x0080009c        0x0 ./water_pumb.o
+ .data          0x0080009c        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .data          0x0080009c        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x0080009c        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x0080009c        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x0080009c        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x0080009c        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x0080009c        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x0080009c        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x0080009c        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .data          0x0080009c        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x0080009c        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x0080009c        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x0080009c        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x0080009c        0x8 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x0080009c                __thenan_sf
+ .data          0x008000a4        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .data          0x008000a4        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x008000a4        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x008000a4        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .data          0x008000a4        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x008000a4        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x008000a4        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x008000a4      0x100 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x008000a4                __clz_tab
+ .data          0x008001a4        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .data          0x008001a4        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .data          0x008001a4        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .data          0x008001a4        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.C.0.1382
+                0x008001a4        0x3 ./main.o
+ *(.gnu.linkonce.d*)
+                0x008001a8                . = ALIGN (0x2)
+ *fill*         0x008001a7        0x1 00
+                0x008001a8                _edata = .
+                0x008001a8                PROVIDE (__data_end, .)
+
+.bss            0x008001a8        0xb
+                0x008001a8                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x008001a8        0x0 ./adc.o
+ .bss           0x008001a8        0x0 ./buzzer.o
+ .bss           0x008001a8        0x0 ./dc_motor.o
+ .bss           0x008001a8        0x0 ./flame_sensor.o
+ .bss           0x008001a8        0x0 ./gpio.o
+ .bss           0x008001a8        0x0 ./lcd.o
+ .bss           0x008001a8        0x0 ./lm35_sensor.o
+ .bss           0x008001a8        0x0 ./main.o
+ .bss           0x008001a8        0x0 ./pwm_timer0.o
+ .bss           0x008001a8        0x0 ./red_led.o
+ .bss           0x008001a8        0x0 ./smoke_sensor.o
+ .bss           0x008001a8        0x0 ./water_pumb.o
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .bss           0x008001a8        0x0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ *(.bss*)
+ .bss.g_ptr2func
+                0x008001a8        0x2 ./flame_sensor.o
+                0x008001a8                g_ptr2func
+ .bss.g_flameFlag
+                0x008001aa        0x1 ./main.o
+                0x008001aa                g_flameFlag
+ .bss.g_smokeFlag
+                0x008001ab        0x1 ./main.o
+                0x008001ab                g_smokeFlag
+ .bss.g_bluetooth
+                0x008001ac        0x1 ./main.o
+                0x008001ac                g_bluetooth
+ .bss.g_mode_LM
+                0x008001ad        0x1 ./main.o
+                0x008001ad                g_mode_LM
+ .bss.g_mode_LDR
+                0x008001ae        0x1 ./main.o
+                0x008001ae                g_mode_LDR
+ *(COMMON)
+ COMMON         0x008001af        0x4 ./main.o
+                0x008001af                displayString
+                0x008001b3                PROVIDE (__bss_end, .)
+                0x00003298                __data_load_start = LOADADDR (.data)
+                0x000033e0                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008001b3        0x0
+                0x008001b3                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008001b3                PROVIDE (__noinit_end, .)
+                0x008001b3                _end = .
+                0x008001b3                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x2ff4
+ *(.stab)
+ .stab          0x00000000      0x528 ./adc.o
+ .stab          0x00000528      0x1c8 ./buzzer.o
+                                0x450 (size before relaxing)
+ .stab          0x000006f0      0x2ac ./dc_motor.o
+                                0x384 (size before relaxing)
+ .stab          0x0000099c      0x1f8 ./flame_sensor.o
+                                0x444 (size before relaxing)
+ .stab          0x00000b94      0x5f4 ./gpio.o
+                                0x6cc (size before relaxing)
+ .stab          0x00001188     0x1104 ./lcd.o
+                               0x135c (size before relaxing)
+ .stab          0x0000228c      0x198 ./lm35_sensor.o
+                                0x27c (size before relaxing)
+ .stab          0x00002424      0x504 ./main.o
+                                0x798 (size before relaxing)
+ .stab          0x00002928      0x1c8 ./pwm_timer0.o
+                                0x2a0 (size before relaxing)
+ .stab          0x00002af0      0x1c8 ./red_led.o
+                                0x450 (size before relaxing)
+ .stab          0x00002cb8      0x1a4 ./smoke_sensor.o
+                                0x2ac (size before relaxing)
+ .stab          0x00002e5c      0x198 ./water_pumb.o
+                                0x270 (size before relaxing)
+
+.stabstr        0x00000000     0x1d1c
+ *(.stabstr)
+ .stabstr       0x00000000     0x1d1c ./adc.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1a0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000080       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000100       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x00000120       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000140       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000160       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000180       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x1f2
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1f m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x0000008d       0x1e m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x000000ab       0x1e m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000c9       0x1e m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000e7       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x00000107       0x22 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x00000129       0x24 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_pubnames
+                0x0000014d       0x1f m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x0000016c       0x1f m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x0000018b       0x21 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x000001ac       0x26 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_pubnames
+                0x000001d2       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x240b
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x3fc m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_info    0x00000dac      0x27f m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x0000102b      0x27f m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x000012aa      0x27f m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x00001529      0x2b0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x000017d9      0x12c m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001905      0x206 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_info    0x00001b0b      0x117 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_info    0x00001c22      0x2df m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x00001f01      0x251 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00002152      0x210 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x00002362       0xa9 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x1386
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x216 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000678      0x15a m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000007d2      0x15a m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x0000092c      0x15a m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000a86      0x17f m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000c05       0xad m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000cb2      0x157 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x00000e09       0xc4 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00000ecd      0x1c0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x0000108d      0x154 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x000011e1      0x13b m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x0000131c       0x6a m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_line     0x00000000     0x11d6
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f      0x1d5 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_line    0x00000764       0xd3 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000837       0xd3 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x0000090a       0xd3 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x000009dd      0x109 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000ae6       0x90 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00000b76      0x133 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_line    0x00000ca9       0xa5 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_line    0x00000d4e      0x18a m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000ed8      0x14b m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00001023      0x137 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x0000115a       0x7c m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_frame    0x00000000      0x1c0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_frame   0x000000a0       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000c0       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000e0       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x00000100       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000120       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x00000140       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000160       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000180       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x000001a0       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x2f6
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000bf      0x14d m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000020c       0x27 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000233       0x35 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x00000268        0x8 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000270        0x8 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000278        0x8 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000280        0xa m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x0000028a       0x21 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                                0x177 (size before relaxing)
+ .debug_str     0x000002ab       0x20 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                                0x111 (size before relaxing)
+ .debug_str     0x000002cb       0x10 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x000002db        0xb m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x000002e6       0x10 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+ .debug_str     0x00000000       0xf4 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_loc      0x00000000      0x96e
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0xc0 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_loc     0x00000522       0x3c m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000055e       0x3c m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x0000059a       0x3c m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x000005d6       0x7e m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000654       0x4c m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x000006a0       0x94 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_loc     0x00000734      0x13e m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x00000872       0xac m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x0000091e       0x50 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(Hossam_Project_MyVersion.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 m:/harddisk setups/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
