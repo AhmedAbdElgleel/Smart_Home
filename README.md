@@ -4,6 +4,11 @@
 
 Welcome to the Smart Home Project! This project aims to enhance home safety and comfort through the integration of two sub-systems: a fire emergency system and a smart room temperature control system. By leveraging sensors, actuators, and an embedded control unit (ECU), our system provides a comprehensive solution for fire detection and temperature management.
 
+## Real Time HardWare
+
+[Link to Google Drive file](https://drive.google.com/file/d/1GV_VvAUBhk1NinG84aoPqFBGor-79fjs/view?t=3)
+
+
 ## Sub-Systems
 
 ### 1. Fire Emergency System
